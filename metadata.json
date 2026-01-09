@@ -1,0 +1,5 @@
+{
+  "name": "SentinelAI - Auto Moderation System",
+  "description": "An intelligent automated moderation system that uses Gemini to analyze chat messages, issue warnings, and apply temporary mutes based on community guidelines.",
+  "requestFramePermissions": []
+}
